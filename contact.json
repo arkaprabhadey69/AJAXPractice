@@ -1,0 +1,84 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Ritu",
+      "lastName": "Biswas",
+      "address": "Anushaktinagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400088",
+      "number": "1234567890",
+      "email": "rb@gmail.com",
+      "start": {
+        "year": "2018",
+        "month": "01",
+        "day": "03"
+      }
+    },
+    {
+      "id": 3,
+      "firstName": "Orko",
+      "lastName": "Dey",
+      "address": "Kalighat",
+      "city": "Kolkata",
+      "state": "WB",
+      "zip": "400096",
+      "number": "669855975",
+      "email": "pj@gmail.com",
+      "start": {
+        "year": 2020,
+        "month": 11,
+        "day": 5
+      }
+    },
+    {
+      "id": 4,
+      "firstName": "Saunak",
+      "lastName": "Mondal",
+      "address": "Hazra",
+      "city": "Delhi",
+      "state": "NCR",
+      "zip": "700056",
+      "number": "986754534",
+      "email": "abc@yahoo.com",
+      "start": {
+        "year": 2020,
+        "month": 11,
+        "day": 5
+      }
+    },
+    {
+      "id": 6,
+      "firstName": "Rohit",
+      "lastName": "Mondal",
+      "address": "Hazra",
+      "city": "Delhi",
+      "state": "NCR",
+      "zip": "700056",
+      "number": "986754534",
+      "email": "abc@yahoo.com",
+      "start": {
+        "year": 2020,
+        "month": 11,
+        "day": 5
+      }
+    },
+    {
+      "firstName": "Dyo",
+      "lastName": "Das",
+      "address": "IIEST Shibpur",
+      "city": "Howrah",
+      "state": "West Bengal",
+      "zip": "700123",
+      "number": "9999888800",
+      "email": "ddas@gmail.com",
+      "start": {
+        "year": "2019",
+        "month": "11",
+        "day": "13"
+      },
+      "id": 7
+    }
+  ]
+}
